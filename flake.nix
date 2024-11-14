@@ -19,6 +19,7 @@
         packages = with pkgs; [
           # backend related
           cargo
+          rustc
           rust-analyzer
           rustfmt
           # frontend related
